@@ -62,7 +62,3 @@ Contributions are welcome!
 
 ## Contact  
 Developed by **Harish Prasad Semwal**. Connect with me on [LinkedIn](https://www.linkedin.com/in/harishprasadsemwal/).  
-
----  
-
-Let me know if you’d like further adjustments or have any specific features to highlight! 🚀
