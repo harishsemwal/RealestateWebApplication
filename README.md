@@ -39,13 +39,6 @@ A modern, responsive Real Estate web application designed to showcase property l
    http://localhost:3000  
    ```  
 
-## Screenshots  
-### Home Page  
-![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page)  
-
-### Property Details  
-![Property Details](https://via.placeholder.com/800x400.png?text=Property+Details)  
-
 ## Future Enhancements  
 - Add animations to improve user experience.  
 - Add user authentication to manage saved properties.  
